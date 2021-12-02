@@ -1,0 +1,1157 @@
+.mediaViewInfo {
+	--web-view-name: Home – Black – Phone;
+	--web-view-id: Home__Black__Phone;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home__Black__Phone;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home__Black__Phone {
+	position: absolute;
+	width: 375px;
+	height: 2720px;
+	background-color: rgba(73,80,87,1);
+	overflow: hidden;
+	--web-view-name: Home – Black – Phone;
+	--web-view-id: Home__Black__Phone;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#NavBar_ps {
+	position: absolute;
+	width: 324.556px;
+	height: 71px;
+	left: 19px;
+	top: 16px;
+	overflow: visible;
+}
+#Raggruppa_5_pt {
+	position: absolute;
+	width: 71px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_4_pu {
+	position: absolute;
+	width: 71px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#UP_pv {
+	position: absolute;
+	width: 71px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_16_pw {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_16_pw {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 146px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_17_px {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_17_px {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 146px;
+	height: 146px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_18_py {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_18_py {
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+}
+#DOWN_pz {
+	position: absolute;
+	width: 71px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_3_p {
+	position: absolute;
+	width: 71px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#MNF-labs_colorV2_p {
+	position: absolute;
+	width: 71px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#menu_p {
+	position: absolute;
+	width: 29.111px;
+	height: 20.471px;
+	left: 295.444px;
+	top: 25.264px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___Black___Phone___Menu.html;
+	cursor: pointer;
+}
+#Tracciato_21_p {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_21_p {
+	overflow: visible;
+	position: absolute;
+	width: 29.111px;
+	height: 2.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_22_p {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_22_p {
+	overflow: visible;
+	position: absolute;
+	width: 29.111px;
+	height: 2.911px;
+	left: 0px;
+	top: 8.78px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_23_p {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_23_p {
+	overflow: visible;
+	position: absolute;
+	width: 29.111px;
+	height: 2.911px;
+	left: 0px;
+	top: 17.56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rettangolo_58_p {
+	fill: transparent;
+}
+.Rettangolo_58_p {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 10px;
+	left: 159px;
+	top: 0px;
+}
+#LA_TUA_SOLUZIONE_PER_IL_WEB_p {
+	left: 44px;
+	top: 283px;
+	position: absolute;
+	overflow: visible;
+	width: 288px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 29px;
+	color: rgba(255,255,255,1);
+}
+#MNF_LABS_p {
+	left: 126px;
+	top: 146px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_80_p {
+	position: absolute;
+	width: 273px;
+	height: 44px;
+	left: 51px;
+	top: 138px;
+	overflow: visible;
+}
+#Linea_2_qa {
+	fill: transparent;
+	stroke: rgba(222,226,230,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_2_qa {
+	overflow: visible;
+	position: absolute;
+	width: 273px;
+	height: 1px;
+	left: 0px;
+	top: 44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Linea_3_qb {
+	fill: transparent;
+	stroke: rgba(222,226,230,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_3_qb {
+	overflow: visible;
+	position: absolute;
+	width: 273px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PIANI_qc {
+	position: absolute;
+	width: 281px;
+	height: 1286px;
+	left: 47px;
+	top: 717px;
+	overflow: visible;
+}
+#Centro_qd {
+	position: absolute;
+	width: 281px;
+	height: 419px;
+	left: 0px;
+	top: 434px;
+	overflow: visible;
+}
+#Raggruppa_29_qe {
+	position: absolute;
+	width: 281px;
+	height: 419px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_40_qf {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_40_qf {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	height: 494px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_42_qg {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_42_qg {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	height: 494px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_43_qh {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_43_qh {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 419px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_44_qi {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_44_qi {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 117px;
+	left: 51px;
+	top: 341px;
+}
+#Rettangolo_45_qj {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_45_qj {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 117px;
+	left: 51px;
+	top: 341px;
+}
+#Rettangolo_46_qk {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_46_qk {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 42px;
+	left: 51px;
+	top: 341px;
+}
+#CONTATTACI_ql {
+	left: 90px;
+	top: 353px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(251,133,0,1);
+}
+#WEB_DESIGN_qm {
+	left: 87px;
+	top: 163px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#screen_qn {
+	fill: rgba(255,255,255,1);
+}
+.screen_qn {
+	overflow: visible;
+	position: absolute;
+	width: 124.053px;
+	height: 112.868px;
+	left: 78.412px;
+	top: 37.144px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_qo {
+	left: 32px;
+	top: 200px;
+	position: absolute;
+	overflow: hidden;
+	width: 219px;
+	height: 120px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+#Dx_qp {
+	position: absolute;
+	width: 281px;
+	height: 417px;
+	left: 0px;
+	top: 869px;
+	overflow: visible;
+}
+#Raggruppa_29_qq {
+	position: absolute;
+	width: 281px;
+	height: 417px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_40_qr {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_40_qr {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	height: 492px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_42_qs {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_42_qs {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	height: 492px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_43_qt {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_43_qt {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 417px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_44_qu {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_44_qu {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 118px;
+	left: 51px;
+	top: 343px;
+}
+#Rettangolo_45_qv {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_45_qv {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 118px;
+	left: 51px;
+	top: 343px;
+}
+#Rettangolo_46_qw {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_46_qw {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 43px;
+	left: 51px;
+	top: 343px;
+}
+#CONTATTACI_qx {
+	left: 90px;
+	top: 355px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(251,133,0,1);
+}
+#BRANDING_qy {
+	left: 94px;
+	top: 161px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Layer_3_qz {
+	position: absolute;
+	width: 123.408px;
+	height: 111.908px;
+	left: 78.734px;
+	top: 37.343px;
+	overflow: visible;
+}
+#Tracciato_1_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_1_q {
+	overflow: visible;
+	position: absolute;
+	width: 123.408px;
+	height: 111.908px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_2_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_2_q {
+	overflow: visible;
+	position: absolute;
+	width: 30.852px;
+	height: 7.638px;
+	left: 15.426px;
+	top: 58.406px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_3_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_3_q {
+	overflow: visible;
+	position: absolute;
+	width: 30.852px;
+	height: 7.638px;
+	left: 15.426px;
+	top: 73.681px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_4_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_4_q {
+	overflow: visible;
+	position: absolute;
+	width: 30.852px;
+	height: 7.638px;
+	left: 15.426px;
+	top: 88.957px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_5_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_5_q {
+	overflow: visible;
+	position: absolute;
+	width: 7.713px;
+	height: 11.456px;
+	left: 65.561px;
+	top: 62.225px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_6_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_6_q {
+	overflow: visible;
+	position: absolute;
+	width: 7.713px;
+	height: 11.456px;
+	left: 65.561px;
+	top: 85.138px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_7_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_7_q {
+	overflow: visible;
+	position: absolute;
+	width: 7.713px;
+	height: 11.456px;
+	left: 80.986px;
+	top: 62.225px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_8_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_8_q {
+	overflow: visible;
+	position: absolute;
+	width: 7.713px;
+	height: 11.456px;
+	left: 80.986px;
+	top: 85.138px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_9_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_9_q {
+	overflow: visible;
+	position: absolute;
+	width: 7.713px;
+	height: 11.456px;
+	left: 96.412px;
+	top: 62.225px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_10_q {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_10_q {
+	overflow: visible;
+	position: absolute;
+	width: 7.713px;
+	height: 11.456px;
+	left: 96.412px;
+	top: 85.138px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ra {
+	left: 32px;
+	top: 200px;
+	position: absolute;
+	overflow: hidden;
+	width: 219px;
+	height: 121px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+#Sx_rb {
+	position: absolute;
+	width: 281px;
+	height: 416px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_29_rc {
+	position: absolute;
+	width: 281px;
+	height: 416px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_40_rd {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_40_rd {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	height: 491px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_42_re {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_42_re {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 356px;
+	height: 491px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_43_rf {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_43_rf {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 416px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_44_rg {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_44_rg {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 118px;
+	left: 51px;
+	top: 342px;
+}
+#Rettangolo_45_rh {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_45_rh {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	height: 118px;
+	left: 51px;
+	top: 342px;
+}
+#Rettangolo_46_ri {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_46_ri {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 43px;
+	left: 51px;
+	top: 342px;
+}
+#CONTATTACI_rj {
+	left: 90px;
+	top: 354px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(251,133,0,1);
+}
+#CONSULENZA_rk {
+	left: 82px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#people_rl {
+	position: absolute;
+	width: 142.469px;
+	height: 105.675px;
+	left: 69.387px;
+	top: 42.333px;
+	overflow: visible;
+}
+#Tracciato_11_rm {
+	fill: rgba(255,255,255,1);
+}
+.Tracciato_11_rm {
+	overflow: visible;
+	position: absolute;
+	width: 142.469px;
+	height: 105.675px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_rn {
+	left: 32px;
+	top: 199px;
+	position: absolute;
+	overflow: hidden;
+	width: 219px;
+	height: 121px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+#Linea_4_ro {
+	fill: transparent;
+	stroke: rgba(222,226,230,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_4_ro {
+	overflow: visible;
+	position: absolute;
+	width: 273px;
+	height: 1px;
+	left: 51px;
+	top: 682px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#I_NOSTRI_PIANI_rp {
+	left: 88px;
+	top: 640px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_82 {
+	position: absolute;
+	width: 327px;
+	height: 562px;
+	left: 25px;
+	top: 2106px;
+	overflow: visible;
+}
+#Raggruppa_75_rr {
+	position: absolute;
+	width: 327px;
+	height: 508px;
+	left: 0px;
+	top: 54px;
+	overflow: visible;
+}
+#Rettangolo_45_rs {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_45_rs {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 583px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_53_rt {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_53_rt {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 583px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_54_ru {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_54_ru {
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	height: 508px;
+	left: 0px;
+	top: 0px;
+}
+#Raggruppa_74_rv {
+	position: absolute;
+	width: 273px;
+	height: 450px;
+	left: 26px;
+	top: 98px;
+	overflow: visible;
+}
+#Raggruppa_73_rw {
+	position: absolute;
+	width: 273px;
+	height: 384px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_67_rx {
+	position: absolute;
+	width: 239px;
+	height: 38px;
+	left: 18px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_46_ry {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_46_ry {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+#Mail_rz {
+	left: 17px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_68_r {
+	position: absolute;
+	width: 239px;
+	height: 38px;
+	left: 18px;
+	top: 123px;
+	overflow: visible;
+}
+#Rettangolo_49_r {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_49_r {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 68px;
+	left: 0px;
+	top: 0px;
+}
+#Nome_e_Cognome_r {
+	left: 17px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_69_r {
+	position: absolute;
+	width: 239px;
+	height: 39px;
+	left: 18px;
+	top: 61px;
+	overflow: visible;
+}
+#Rettangolo_47_r {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_47_r {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 69px;
+	left: 0px;
+	top: 0px;
+}
+#Telefono_r {
+	left: 17px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_70_r {
+	position: absolute;
+	width: 273px;
+	height: 153px;
+	left: 0px;
+	top: 231px;
+	overflow: visible;
+}
+#Rettangolo_48_r {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_48_r {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	height: 183px;
+	left: 0px;
+	top: 0px;
+}
+#Messaggio_r {
+	left: 14px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_72_r {
+	position: absolute;
+	width: 154px;
+	height: 41px;
+	left: 60px;
+	top: 409px;
+	overflow: visible;
+}
+#Raggruppa_71_sa {
+	position: absolute;
+	width: 154px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_50_sb {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_50_sb {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_51_sc {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_51_sc {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 229px;
+	height: 116px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_52_sd {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_52_sd {
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	height: 41px;
+	left: 0px;
+	top: 0px;
+}
+#INVIA_se {
+	left: 43px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 22px;
+	color: rgba(251,133,0,1);
+}
+#CONTATTACI_sf {
+	left: 78px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+}
+#Linea_6 {
+	fill: transparent;
+	stroke: rgba(222,226,230,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_6 {
+	overflow: visible;
+	position: absolute;
+	width: 273px;
+	height: 1px;
+	left: 26px;
+	top: 42px;
+	transform: matrix(1,0,0,1,0,0);
+}

@@ -1,0 +1,647 @@
+.mediaViewInfo {
+	--web-view-name: SignIn - White;
+	--web-view-id: SignIn_-_White;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SignIn_-_White;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#SignIn_-_White {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(233,236,239,1);
+	overflow: hidden;
+	--web-view-name: SignIn - White;
+	--web-view-id: SignIn_-_White;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Raggruppa_5_un {
+	position: absolute;
+	width: 674px;
+	height: 734px;
+	left: 31px;
+	top: 130px;
+	overflow: visible;
+}
+#Raggruppa_3_uo {
+	position: absolute;
+	width: 674px;
+	height: 734px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#MNF_LABS_up {
+	left: 75px;
+	top: 613px;
+	position: absolute;
+	overflow: visible;
+	width: 527px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 99px;
+	color: rgba(112,112,112,1);
+}
+#MNF-labs_colorV2_uq {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#NavBar_ur {
+	position: absolute;
+	width: 78px;
+	height: 34px;
+	left: 1796px;
+	top: 54px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: SignIn___Black.html;
+	cursor: pointer;
+}
+#Raggruppa_78_us {
+	position: absolute;
+	width: 78px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_59_ut {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_59_ut {
+	filter: drop-shadow(6px 6px 10px rgba(173, 181, 189, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_60_uu {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_60_uu {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_61_uv {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_61_uv {
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_64_uw {
+	fill: rgba(251,133,0,1);
+}
+.Rettangolo_64_uw {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.251));
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 5px;
+	top: 5px;
+}
+#sunny-outline_ux {
+	position: absolute;
+	width: 16.881px;
+	height: 16.881px;
+	left: 8.56px;
+	top: 8.56px;
+	overflow: visible;
+}
+#Tracciato_12_uy {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_12_uy {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 2.948px;
+	left: 8.44px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_13_uz {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_13_uz {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 2.948px;
+	left: 8.44px;
+	top: 14.933px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_14_u {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_14_u {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.792px;
+	left: 13.032px;
+	top: 2.472px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_15_u {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_15_u {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 2.472px;
+	top: 13.031px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_16_u {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_16_u {
+	overflow: visible;
+	position: absolute;
+	width: 2.948px;
+	height: 1px;
+	left: 14.933px;
+	top: 8.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_17_u {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_17_u {
+	overflow: visible;
+	position: absolute;
+	width: 2.948px;
+	height: 1px;
+	left: 0px;
+	top: 8.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_18_u {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_18_u {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 13.032px;
+	top: 13.032px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_19_u {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_19_u {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.792px;
+	left: 2.472px;
+	top: 2.473px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_20_u {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_20_u {
+	overflow: visible;
+	position: absolute;
+	width: 7.493px;
+	height: 7.493px;
+	left: 5.194px;
+	top: 5.194px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#moon-line_u {
+	fill: rgba(73,80,87,1);
+}
+.moon-line_u {
+	overflow: visible;
+	position: absolute;
+	width: 15.688px;
+	height: 18px;
+	left: 53.492px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rettangolo_58_u {
+	fill: transparent;
+}
+.Rettangolo_58_u {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 10px;
+	left: 931px;
+	top: 0px;
+}
+#Raggruppa_75_u {
+	position: absolute;
+	width: 1075px;
+	height: 752px;
+	left: 772px;
+	top: 164px;
+	overflow: visible;
+}
+#Rettangolo_45_va {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_45_va {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 1150px;
+	height: 827px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_53_vb {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_53_vb {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 1150px;
+	height: 827px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_54_vc {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_54_vc {
+	position: absolute;
+	overflow: visible;
+	width: 1075px;
+	height: 752px;
+	left: 0px;
+	top: 0px;
+}
+#Raggruppa_74_vd {
+	position: absolute;
+	width: 924px;
+	height: 560px;
+	left: 841px;
+	top: 278px;
+	overflow: visible;
+}
+#SIGN_IN {
+	left: 321px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 74px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_73_vf {
+	position: absolute;
+	width: 924px;
+	height: 184px;
+	left: 0px;
+	top: 198px;
+	overflow: visible;
+}
+#Raggruppa_67_vg {
+	position: absolute;
+	width: 439px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_46_vh {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_46_vh {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+}
+#Mail_vi {
+	left: 30px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_68_vj {
+	position: absolute;
+	width: 439px;
+	height: 71px;
+	left: 485px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_49_vk {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_49_vk {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+}
+#Password {
+	left: 31px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_86 {
+	position: absolute;
+	width: 439px;
+	height: 71px;
+	left: 485px;
+	top: 109px;
+	overflow: visible;
+}
+#Rettangolo_49_vn {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_49_vn {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+}
+#Conferma_Password {
+	left: 31px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_69_vp {
+	position: absolute;
+	width: 439px;
+	height: 72px;
+	left: 0px;
+	top: 112px;
+	overflow: visible;
+}
+#Rettangolo_47_vq {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_47_vq {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 102px;
+	left: 0px;
+	top: 0px;
+}
+#Nome_e_Cognome_vr {
+	left: 30px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_72_vs {
+	position: absolute;
+	width: 260px;
+	height: 72px;
+	left: 642px;
+	top: 488px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___White.html;
+	cursor: pointer;
+}
+#Raggruppa_71_vt {
+	position: absolute;
+	width: 260px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_50_vu {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_50_vu {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	height: 147px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_51_vv {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_51_vv {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	height: 147px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_52_vw {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_52_vw {
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#SIGN_IN_vx {
+	left: 49px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 42px;
+	color: rgba(251,133,0,1);
+}
+#Hai_gia_un_account_accedi {
+	left: 0px;
+	top: 508px;
+	position: absolute;
+	overflow: visible;
+	width: 363px;
+	white-space: nowrap;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: LogIn___White.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(112,112,112,1);
+}

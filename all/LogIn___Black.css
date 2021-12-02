@@ -1,0 +1,617 @@
+.mediaViewInfo {
+	--web-view-name: LogIn - Black;
+	--web-view-id: LogIn_-_Black;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: LogIn_-_Black;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#LogIn_-_Black {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(73,80,87,1);
+	overflow: hidden;
+	--web-view-name: LogIn - Black;
+	--web-view-id: LogIn_-_Black;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#HOME_xg {
+	position: absolute;
+	width: 78px;
+	height: 34px;
+	left: 1796px;
+	top: 54px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: LogIn___White.html;
+	cursor: pointer;
+}
+#NavBar_xh {
+	position: absolute;
+	width: 78px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#NavBar_xi {
+	position: absolute;
+	width: 78px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_78_xj {
+	position: absolute;
+	width: 78px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_59_xk {
+	fill: rgba(52,58,64,1);
+}
+.Rettangolo_59_xk {
+	filter: drop-shadow(6px 6px 10px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_60_xl {
+	fill: rgba(52,58,64,1);
+}
+.Rettangolo_60_xl {
+	filter: drop-shadow(-6px -6px 10px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_61_xm {
+	fill: rgba(52,58,64,1);
+}
+.Rettangolo_61_xm {
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_64_xn {
+	fill: rgba(251,133,0,1);
+}
+.Rettangolo_64_xn {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.251));
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 49px;
+	top: 5px;
+}
+#sunny-outline_xo {
+	position: absolute;
+	width: 16.881px;
+	height: 16.881px;
+	left: 8.56px;
+	top: 8.56px;
+	overflow: visible;
+}
+#Tracciato_12_xp {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_12_xp {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 2.948px;
+	left: 8.44px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_13_xq {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_13_xq {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 2.948px;
+	left: 8.44px;
+	top: 14.933px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_14_xr {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_14_xr {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.792px;
+	left: 13.032px;
+	top: 2.472px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_15_xs {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_15_xs {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 2.472px;
+	top: 13.031px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_16_xt {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_16_xt {
+	overflow: visible;
+	position: absolute;
+	width: 2.948px;
+	height: 1px;
+	left: 14.933px;
+	top: 8.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_17_xu {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_17_xu {
+	overflow: visible;
+	position: absolute;
+	width: 2.948px;
+	height: 1px;
+	left: 0px;
+	top: 8.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_18_xv {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_18_xv {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 13.032px;
+	top: 13.032px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_19_xw {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_19_xw {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.792px;
+	left: 2.472px;
+	top: 2.473px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_20_xx {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_20_xx {
+	overflow: visible;
+	position: absolute;
+	width: 7.492px;
+	height: 7.493px;
+	left: 5.194px;
+	top: 5.194px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#moon-line_xy {
+	fill: rgba(73,80,87,1);
+}
+.moon-line_xy {
+	overflow: visible;
+	position: absolute;
+	width: 15.688px;
+	height: 18px;
+	left: 53.492px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Raggruppa_5_xz {
+	position: absolute;
+	width: 674px;
+	height: 734px;
+	left: 31px;
+	top: 130px;
+	overflow: visible;
+}
+#Raggruppa_3_x {
+	position: absolute;
+	width: 674px;
+	height: 734px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#MNF_LABS_x {
+	left: 75px;
+	top: 613px;
+	position: absolute;
+	overflow: visible;
+	width: 527px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 99px;
+	color: rgba(255,255,255,1);
+}
+#MNF-labs_colorV2_x {
+	position: absolute;
+	width: 674px;
+	height: 674px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_75_x {
+	position: absolute;
+	width: 1075px;
+	height: 750px;
+	left: 772px;
+	top: 166px;
+	overflow: visible;
+}
+#Rettangolo_45_x {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_45_x {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 1150px;
+	height: 825px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_53_x {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_53_x {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 1150px;
+	height: 825px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_54_x {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_54_x {
+	position: absolute;
+	overflow: visible;
+	width: 1075px;
+	height: 750px;
+	left: 0px;
+	top: 0px;
+}
+#Raggruppa_74_x {
+	position: absolute;
+	width: 924px;
+	height: 560px;
+	left: 841px;
+	top: 278px;
+	overflow: visible;
+}
+#LOG_IN {
+	left: 332px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 74px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_73_x {
+	position: absolute;
+	width: 924px;
+	height: 184px;
+	left: 0px;
+	top: 198px;
+	overflow: visible;
+}
+#Raggruppa_67_ya {
+	position: absolute;
+	width: 439px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_46_yb {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_46_yb {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+}
+#Mail_yc {
+	left: 30px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_68_yd {
+	position: absolute;
+	width: 439px;
+	height: 71px;
+	left: 485px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_49_ye {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_49_ye {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 101px;
+	left: 0px;
+	top: 0px;
+}
+#Password_yf {
+	left: 31px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_69_yg {
+	position: absolute;
+	width: 439px;
+	height: 72px;
+	left: 0px;
+	top: 112px;
+	overflow: visible;
+}
+#Rettangolo_47_yh {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_47_yh {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 469px;
+	height: 102px;
+	left: 0px;
+	top: 0px;
+}
+#Nome_e_Cognome_yi {
+	left: 30px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Non_hai_ancora_un_account_regi {
+	left: 0px;
+	top: 508px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: SignIn___Black.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(255,255,255,1);
+}
+#Raggruppa_72_yk {
+	position: absolute;
+	width: 260px;
+	height: 72px;
+	left: 642px;
+	top: 488px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___Black.html;
+	cursor: pointer;
+}
+#Raggruppa_71_yl {
+	position: absolute;
+	width: 260px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_50_ym {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_50_ym {
+	filter: drop-shadow(15px 15px 25px rgba(52, 58, 64, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	height: 147px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_51_yn {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_51_yn {
+	filter: drop-shadow(-15px -15px 25px rgba(82, 91, 99, 1));
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	height: 147px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_52_yo {
+	fill: rgba(73,80,87,1);
+}
+.Rettangolo_52_yo {
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#LOG_IN_yp {
+	left: 56px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 42px;
+	color: rgba(251,133,0,1);
+}

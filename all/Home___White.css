@@ -1,0 +1,2450 @@
+.mediaViewInfo {
+	--web-view-name: Home – White;
+	--web-view-id: Home__White;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home__White;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home__White {
+	position: absolute;
+	width: 1920px;
+	height: 4320px;
+	background-color: rgba(233,236,239,1);
+	overflow: hidden;
+	--web-view-name: Home – White;
+	--web-view-id: Home__White;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#HOME {
+	position: absolute;
+	width: 2465.149px;
+	height: 1672.237px;
+	left: 63px;
+	top: 38px;
+	overflow: visible;
+}
+#NavBar {
+	position: absolute;
+	width: 1808px;
+	height: 113px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_5 {
+	position: absolute;
+	width: 328px;
+	height: 113px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_4 {
+	position: absolute;
+	width: 328px;
+	height: 97px;
+	left: 0px;
+	top: 8px;
+	overflow: visible;
+}
+#UP {
+	position: absolute;
+	width: 328px;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_16 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_16 {
+	filter: drop-shadow(15px 15px 25px rgba(173, 181, 189, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_17 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_17 {
+	filter: drop-shadow(-15px -15px 25px rgba(248, 249, 250, 1));
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 172px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_18 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+}
+#DOWN {
+	position: absolute;
+	width: 328px;
+	height: 97px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_3 {
+	position: absolute;
+	width: 248px;
+	height: 113px;
+	left: 40px;
+	top: 0px;
+	overflow: visible;
+}
+#MNF_LABS {
+	left: 115px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#MNF-labs_colorV2 {
+	position: absolute;
+	width: 113px;
+	height: 113px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#NavBar_ {
+	position: absolute;
+	width: 541px;
+	height: 42px;
+	left: 1267px;
+	top: 33px;
+	overflow: visible;
+}
+#HOME_ {
+	left: 0px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#PORTFOLIO {
+	left: 151px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#SHOP {
+	left: 356px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Ellisse_1 {
+	fill: rgba(251,133,0,1);
+}
+.Ellisse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 29px;
+	top: 34px;
+}
+#Raggruppa_78 {
+	position: absolute;
+	width: 78px;
+	height: 34px;
+	left: 463px;
+	top: 0px;
+	overflow: visible;
+	transition: all 0.4s ease-out;
+	--web-animation: fadein 0.4s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___Black.html;
+	cursor: pointer;
+}
+#Rettangolo_59 {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_59 {
+	filter: drop-shadow(6px 6px 10px rgba(173, 181, 189, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_60 {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_60 {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 64px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_61 {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_61 {
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	height: 34px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_64 {
+	fill: rgba(251,133,0,1);
+}
+.Rettangolo_64 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.251));
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 468px;
+	top: 5px;
+}
+#sunny-outline {
+	position: absolute;
+	width: 16.881px;
+	height: 16.881px;
+	left: 471.56px;
+	top: 8.56px;
+	overflow: visible;
+}
+#Tracciato_12 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_12 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 2.948px;
+	left: 8.44px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_13 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_13 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 2.948px;
+	left: 8.44px;
+	top: 14.933px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_14 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_14 {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 13.032px;
+	top: 2.472px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_15 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_15 {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 2.472px;
+	top: 13.031px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_16 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_16 {
+	overflow: visible;
+	position: absolute;
+	width: 2.948px;
+	height: 1px;
+	left: 14.933px;
+	top: 8.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_17 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_17 {
+	overflow: visible;
+	position: absolute;
+	width: 2.948px;
+	height: 1px;
+	left: 0px;
+	top: 8.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_18 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_18 {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 13.032px;
+	top: 13.032px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_19 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_19 {
+	overflow: visible;
+	position: absolute;
+	width: 2.791px;
+	height: 2.791px;
+	left: 2.472px;
+	top: 2.472px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_20 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Tracciato_20 {
+	overflow: visible;
+	position: absolute;
+	width: 7.493px;
+	height: 7.493px;
+	left: 5.194px;
+	top: 5.194px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#moon-line {
+	fill: rgba(73,80,87,1);
+}
+.moon-line {
+	overflow: visible;
+	position: absolute;
+	width: 15.688px;
+	height: 18px;
+	left: 516.492px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Raggruppa_6 {
+	position: absolute;
+	width: 1453.149px;
+	height: 1447.237px;
+	left: 1012px;
+	top: 225px;
+	overflow: visible;
+}
+#Rettangolo_27 {
+	fill: rgba(173,181,189,1);
+}
+.Rettangolo_27 {
+	width: 823px;
+	height: 1148px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-1075px, -263px) matrix(1,0,0,1,1417.8963,441.4943) rotate(-46deg);
+	transform-origin: center;
+}
+#iamge_1 {
+	position: absolute;
+	width: 688px;
+	height: 688px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#LA_TUA_SOLUZIONE_PER_IL_WEB {
+	left: 75px;
+	top: 388px;
+	position: absolute;
+	overflow: visible;
+	width: 705px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 71px;
+	color: rgba(112,112,112,1);
+}
+#Rettangolo_2 {
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_2 {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 3240px;
+}
+#BG {
+	position: absolute;
+	width: 1920px;
+	height: 1493px;
+	left: 0px;
+	top: 874px;
+	overflow: visible;
+}
+#Rettangolo_39_bz {
+	fill: url(#Rettangolo_39_bz);
+}
+.Rettangolo_39_bz {
+	width: 1920px;
+	height: 207px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, -874px) matrix(1,0,0,1,0,2160) rotate(180deg);
+	transform-origin: center;
+}
+#Rettangolo_1 {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 206px;
+}
+#Rettangolo_30_b {
+	fill: url(#Rettangolo_30_b);
+}
+.Rettangolo_30_b {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 207px;
+	left: 0px;
+	top: 0px;
+}
+#I_NOSTRI_LAVORI {
+	position: absolute;
+	width: 1770px;
+	height: 940px;
+	left: 108px;
+	top: 1139px;
+	overflow: visible;
+}
+#Raggruppa_24 {
+	position: absolute;
+	width: 858px;
+	height: 881px;
+	left: 912px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_23 {
+	position: absolute;
+	width: 858px;
+	height: 881px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Sphere {
+	position: absolute;
+	width: 518px;
+	height: 518px;
+	left: 340px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellisse_5 {
+	fill: rgba(79,93,117,0.631);
+}
+.Ellisse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 518px;
+	height: 518px;
+	left: 0px;
+	top: 0px;
+}
+#Ellisse_4 {
+	fill: rgba(79,93,117,0.631);
+}
+.Ellisse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 426px;
+	height: 426px;
+	left: 46px;
+	top: 46px;
+}
+#Ellisse_3 {
+	fill: rgba(79,93,117,0.631);
+}
+.Ellisse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 334px;
+	height: 334px;
+	left: 93px;
+	top: 92px;
+}
+#Ellisse_2 {
+	fill: rgba(79,93,117,1);
+}
+.Ellisse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 242px;
+	height: 242px;
+	left: 139px;
+	top: 138px;
+}
+#Sphere_cb {
+	position: absolute;
+	width: 413px;
+	height: 413px;
+	left: 0px;
+	top: 468px;
+	overflow: visible;
+}
+#Ellisse_5_cc {
+	fill: rgba(45,49,66,0.631);
+}
+.Ellisse_5_cc {
+	position: absolute;
+	overflow: visible;
+	width: 413px;
+	height: 413px;
+	left: 0px;
+	top: 0px;
+}
+#Ellisse_4_cd {
+	fill: rgba(45,49,66,0.631);
+}
+.Ellisse_4_cd {
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	height: 339px;
+	left: 37px;
+	top: 37px;
+}
+#Ellisse_3_ce {
+	fill: rgba(45,49,66,0.631);
+}
+.Ellisse_3_ce {
+	position: absolute;
+	overflow: visible;
+	width: 266px;
+	height: 266px;
+	left: 74px;
+	top: 74px;
+}
+#Ellisse_2_cf {
+	fill: rgba(45,49,66,1);
+}
+.Ellisse_2_cf {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 193px;
+	left: 111px;
+	top: 110px;
+}
+#Raggruppa_22 {
+	position: absolute;
+	width: 503px;
+	height: 719px;
+	left: 178px;
+	top: 122px;
+	overflow: visible;
+}
+#Raggruppa_12 {
+	position: absolute;
+	width: 503px;
+	height: 719px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_11 {
+	position: absolute;
+	width: 503px;
+	height: 719px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_28 {
+	filter: blur(50px);
+	fill: rgba(118,118,118,1);
+}
+.Rettangolo_28 {
+	position: absolute;
+	overflow: visible;
+	width: 503px;
+	height: 719px;
+	left: 0px;
+	top: 0px;
+}
+#Raggruppa_28 {
+	position: absolute;
+	width: 407px;
+	height: 597px;
+	left: 48px;
+	top: 61px;
+	overflow: visible;
+}
+#Rettangolo_29 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_29 {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 672px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_37 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_37 {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 482px;
+	height: 672px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_38 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_38 {
+	position: absolute;
+	overflow: visible;
+	width: 407px;
+	height: 597px;
+	left: 0px;
+	top: 0px;
+}
+#I_NOSTRI_LAVORI_co {
+	left: 98px;
+	top: 130px;
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 64px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_21 {
+	position: absolute;
+	width: 283px;
+	height: 79px;
+	left: 110px;
+	top: 516px;
+	overflow: visible;
+}
+#Raggruppa_10 {
+	position: absolute;
+	width: 283px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_31 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_31 {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 154px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_32 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_32 {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 154px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_33 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_33 {
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+}
+#VEDI_PROTFOLIO {
+	left: 25px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 26px;
+	color: rgba(251,133,0,1);
+}
+#Raggruppa_31 {
+	position: absolute;
+	width: 700px;
+	height: 924px;
+	left: 0px;
+	top: 16px;
+	overflow: visible;
+}
+#Raggruppa_20 {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_16 {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_34_cz {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_cz {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_34_cz {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_cz {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_36 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_36 {
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+}
+#Immagine_2021-11-20_173741 {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 246px;
+	height: 154px;
+	left: 37px;
+	top: 39px;
+	overflow: visible;
+}
+#Raggruppa_18 {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 144px;
+	top: 367px;
+	overflow: visible;
+}
+#Raggruppa_17 {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_31_c {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_31_c {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_32_c {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_32_c {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_33_c {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_33_c {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#VISITA {
+	left: 36px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_19 {
+	position: absolute;
+	width: 248px;
+	height: 88px;
+	left: 37px;
+	top: 230px;
+	overflow: visible;
+}
+#INSTAGRAM {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(112,112,112,1);
+}
+#Condividi_foto_e_momenti__dell {
+	left: 0px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_27 {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 487px;
+	overflow: visible;
+}
+#Raggruppa_16_dc {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_34_de {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_de {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_34_de {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_de {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_36_df {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_36_df {
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+}
+#Immagine_2021-11-20_173741_dg {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 246px;
+	height: 154px;
+	left: 37px;
+	top: 39px;
+	overflow: visible;
+}
+#Raggruppa_18_dh {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 144px;
+	top: 367px;
+	overflow: visible;
+}
+#Raggruppa_17_di {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_31_dj {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_31_dj {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_32_dk {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_32_dk {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_33_dl {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_33_dl {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#VISITA_dm {
+	left: 36px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_19_dn {
+	position: absolute;
+	width: 248px;
+	height: 88px;
+	left: 37px;
+	top: 230px;
+	overflow: visible;
+}
+#INSTAGRAM_do {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(112,112,112,1);
+}
+#Condividi_foto_e_momenti__dell_dp {
+	left: 0px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_25 {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 380px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_16_dr {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_34_dt {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_dt {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_34_dt {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_dt {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_36_du {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_36_du {
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+}
+#Immagine_2021-11-20_173741_dv {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 246px;
+	height: 154px;
+	left: 37px;
+	top: 39px;
+	overflow: visible;
+}
+#Raggruppa_18_dw {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 144px;
+	top: 367px;
+	overflow: visible;
+}
+#Raggruppa_17_dx {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_31_dy {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_31_dy {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_32_dz {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_32_dz {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_33_d {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_33_d {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#VISITA_d {
+	left: 36px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_19_d {
+	position: absolute;
+	width: 248px;
+	height: 88px;
+	left: 37px;
+	top: 230px;
+	overflow: visible;
+}
+#INSTAGRAM_d {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(112,112,112,1);
+}
+#Condividi_foto_e_momenti__dell_d {
+	left: 0px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_26 {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 380px;
+	top: 487px;
+	overflow: visible;
+}
+#Raggruppa_16_d {
+	position: absolute;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_34_ea {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_ea {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_34_ea {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_34_ea {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 0.749));
+	position: absolute;
+	overflow: visible;
+	width: 350px;
+	height: 467px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_36_d {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_36_d {
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 437px;
+	left: 0px;
+	top: 0px;
+}
+#Immagine_2021-11-20_173741_ea {
+	filter: drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 246px;
+	height: 154px;
+	left: 37px;
+	top: 39px;
+	overflow: visible;
+}
+#Raggruppa_18_eb {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 144px;
+	top: 367px;
+	overflow: visible;
+}
+#Raggruppa_17_ec {
+	position: absolute;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_31_ed {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_31_ed {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_32_ee {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_32_ee {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 218px;
+	height: 126px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_33_ef {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_33_ef {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#VISITA_eg {
+	left: 36px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 23px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_19_eh {
+	position: absolute;
+	width: 248px;
+	height: 88px;
+	left: 37px;
+	top: 230px;
+	overflow: visible;
+}
+#INSTAGRAM_ei {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(112,112,112,1);
+}
+#Condividi_foto_e_momenti__dell_ej {
+	left: 0px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(112,112,112,1);
+}
+#Linea_1 {
+	opacity: 0.3;
+	fill: transparent;
+	stroke: rgba(108,117,125,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1433px;
+	height: 3px;
+	left: 245.5px;
+	top: 2160px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#PIANI {
+	position: absolute;
+	width: 1684px;
+	height: 756px;
+	left: 118px;
+	top: 2322px;
+	overflow: visible;
+}
+#Centro {
+	position: absolute;
+	width: 506px;
+	height: 756px;
+	left: 589px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_29 {
+	position: absolute;
+	width: 506px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_40 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_40 {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 581px;
+	height: 831px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_42 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_42 {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 581px;
+	height: 831px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_43 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_43 {
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_44 {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_44 {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 153px;
+	left: 92px;
+	top: 622px;
+}
+#Rettangolo_45 {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_45 {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 153px;
+	left: 92px;
+	top: 622px;
+}
+#Rettangolo_46 {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_46 {
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	height: 78px;
+	left: 92px;
+	top: 622px;
+}
+#CONTATTACI {
+	left: 158px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(251,133,0,1);
+}
+#WEB_DESIGN {
+	left: 152px;
+	top: 295px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#screen {
+	fill: rgba(112,112,112,1);
+}
+.screen {
+	overflow: visible;
+	position: absolute;
+	width: 223.482px;
+	height: 207.519px;
+	left: 141.259px;
+	top: 62.241px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 57px;
+	top: 362px;
+	position: absolute;
+	overflow: hidden;
+	width: 394px;
+	height: 220px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(112,112,112,1);
+}
+#Dx {
+	position: absolute;
+	width: 506px;
+	height: 756px;
+	left: 1178px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_29_ez {
+	position: absolute;
+	width: 506px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_40_e {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_40_e {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 581px;
+	height: 831px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_42_e {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_42_e {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 581px;
+	height: 831px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_43_e {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_43_e {
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_44_e {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_44_e {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 153px;
+	left: 92px;
+	top: 622px;
+}
+#Rettangolo_45_e {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_45_e {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 153px;
+	left: 92px;
+	top: 622px;
+}
+#Rettangolo_46_e {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_46_e {
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	height: 78px;
+	left: 92px;
+	top: 622px;
+}
+#CONTATTACI_e {
+	left: 158px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(251,133,0,1);
+}
+#BRANDING {
+	left: 168px;
+	top: 295px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Layer_3 {
+	position: absolute;
+	width: 222.32px;
+	height: 203.591px;
+	left: 141.84px;
+	top: 66.168px;
+	overflow: visible;
+}
+#Tracciato_1 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_1 {
+	overflow: visible;
+	position: absolute;
+	width: 222.32px;
+	height: 203.591px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_2 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_2 {
+	overflow: visible;
+	position: absolute;
+	width: 55.58px;
+	height: 13.895px;
+	left: 27.79px;
+	top: 106.257px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_3 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_3 {
+	overflow: visible;
+	position: absolute;
+	width: 55.58px;
+	height: 13.895px;
+	left: 27.79px;
+	top: 134.047px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_4 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_4 {
+	overflow: visible;
+	position: absolute;
+	width: 55.58px;
+	height: 13.895px;
+	left: 27.79px;
+	top: 161.837px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_5 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_5 {
+	overflow: visible;
+	position: absolute;
+	width: 13.895px;
+	height: 20.843px;
+	left: 118.107px;
+	top: 113.204px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_6 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_6 {
+	overflow: visible;
+	position: absolute;
+	width: 13.895px;
+	height: 20.843px;
+	left: 118.107px;
+	top: 154.889px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_7 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_7 {
+	overflow: visible;
+	position: absolute;
+	width: 13.895px;
+	height: 20.843px;
+	left: 145.897px;
+	top: 113.204px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_8 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_8 {
+	overflow: visible;
+	position: absolute;
+	width: 13.895px;
+	height: 20.843px;
+	left: 145.897px;
+	top: 154.889px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_9 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_9 {
+	overflow: visible;
+	position: absolute;
+	width: 13.895px;
+	height: 20.843px;
+	left: 173.687px;
+	top: 113.204px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Tracciato_10 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_10 {
+	overflow: visible;
+	position: absolute;
+	width: 13.895px;
+	height: 20.843px;
+	left: 173.687px;
+	top: 154.889px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_fj {
+	left: 57px;
+	top: 362px;
+	position: absolute;
+	overflow: hidden;
+	width: 394px;
+	height: 220px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(112,112,112,1);
+}
+#Sx {
+	position: absolute;
+	width: 506px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Raggruppa_29_fl {
+	position: absolute;
+	width: 506px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_40_fm {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_40_fm {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 581px;
+	height: 831px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_42_fn {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_42_fn {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 581px;
+	height: 831px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_43_fo {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_43_fo {
+	position: absolute;
+	overflow: visible;
+	width: 506px;
+	height: 756px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_44_fp {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_44_fp {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 153px;
+	left: 92px;
+	top: 622px;
+}
+#Rettangolo_45_fq {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_45_fq {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 397px;
+	height: 153px;
+	left: 92px;
+	top: 622px;
+}
+#Rettangolo_46_fr {
+	fill: rgba(220,230,240,1);
+}
+.Rettangolo_46_fr {
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	height: 78px;
+	left: 92px;
+	top: 622px;
+}
+#CONTATTACI_fs {
+	left: 158px;
+	top: 643px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(251,133,0,1);
+}
+#CONSULENZA {
+	left: 145px;
+	top: 295px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#people {
+	position: absolute;
+	width: 256.658px;
+	height: 192.493px;
+	left: 125px;
+	top: 77.112px;
+	overflow: visible;
+}
+#Tracciato_11 {
+	fill: rgba(112,112,112,1);
+}
+.Tracciato_11 {
+	overflow: visible;
+	position: absolute;
+	width: 256.658px;
+	height: 192.493px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lorem_ipsum_dolor_sit_amet_con_fw {
+	left: 57px;
+	top: 362px;
+	position: absolute;
+	overflow: hidden;
+	width: 394px;
+	height: 220px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 19px;
+	color: rgba(112,112,112,1);
+}
+#CONTATTACI_fx {
+	position: absolute;
+	width: 1844px;
+	height: 906px;
+	left: 0px;
+	top: 3282px;
+	overflow: visible;
+}
+#Raggruppa_75 {
+	position: absolute;
+	width: 1129px;
+	height: 906px;
+	left: 715px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_45_fz {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_45_fz {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 1204px;
+	height: 981px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_53 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_53 {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 1204px;
+	height: 981px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_54 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_54 {
+	position: absolute;
+	overflow: visible;
+	width: 1129px;
+	height: 906px;
+	left: 0px;
+	top: 0px;
+}
+#Raggruppa_66 {
+	position: absolute;
+	width: 670px;
+	height: 696px;
+	left: 0px;
+	top: 67px;
+	overflow: visible;
+}
+#MNF-labs_colorV2_f {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 0.251));
+	position: absolute;
+	width: 670px;
+	height: 670px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#MNF_LABS_f {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 0.251));
+	left: 61px;
+	top: 569px;
+	position: absolute;
+	overflow: visible;
+	width: 549px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 104px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_74 {
+	position: absolute;
+	width: 994px;
+	height: 713px;
+	left: 787px;
+	top: 64px;
+	overflow: visible;
+}
+#CONTATTACI_f {
+	left: 246px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 496px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 79px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_73 {
+	position: absolute;
+	width: 994px;
+	height: 311px;
+	left: 0px;
+	top: 242px;
+	overflow: visible;
+}
+#Raggruppa_67 {
+	position: absolute;
+	width: 462px;
+	height: 75px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_46_f {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_46_f {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 492px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Mail {
+	left: 32px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_68 {
+	position: absolute;
+	width: 462px;
+	height: 75px;
+	left: 0px;
+	top: 236px;
+	overflow: visible;
+}
+#Rettangolo_49 {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_49 {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 492px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Nome_e_Cognome {
+	left: 33px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_69 {
+	position: absolute;
+	width: 462px;
+	height: 75px;
+	left: 0px;
+	top: 118px;
+	overflow: visible;
+}
+#Rettangolo_47 {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_47 {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 492px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+}
+#Telefono {
+	left: 32px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_70 {
+	position: absolute;
+	width: 462px;
+	height: 311px;
+	left: 532px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_48 {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+}
+.Rettangolo_48 {
+	filter: drop-shadow(6px 6px 10px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 492px;
+	height: 341px;
+	left: 0px;
+	top: 0px;
+}
+#Messaggio {
+	left: 33px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 27px;
+	color: rgba(112,112,112,1);
+}
+#Raggruppa_72 {
+	position: absolute;
+	width: 274px;
+	height: 76px;
+	left: 356px;
+	top: 637px;
+	overflow: visible;
+}
+#Raggruppa_71 {
+	position: absolute;
+	width: 274px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rettangolo_50 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_50 {
+	filter: drop-shadow(15px 15px 25px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 349px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_51 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_51 {
+	filter: drop-shadow(-15px -15px 25px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 349px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_52 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_52 {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+}
+#INVIA {
+	left: 75px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 45px;
+	color: rgba(251,133,0,1);
+}
+#Up {
+	position: absolute;
+	width: 66px;
+	height: 66px;
+	left: 1834px;
+	top: 4235px;
+	overflow: visible;
+}
+#Rettangolo_55 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_55 {
+	filter: drop-shadow(6px 6px 10px rgba(108, 117, 125, 0.502));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_56 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_56 {
+	filter: drop-shadow(-6px -6px 10px rgba(255, 255, 255, 1));
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_57 {
+	fill: rgba(233,236,239,1);
+}
+.Rettangolo_57 {
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	height: 66px;
+	left: 0px;
+	top: 0px;
+}
+#arrow-ios-downward-fill {
+	fill: rgba(112,112,112,1);
+}
+.arrow-ios-downward-fill {
+	overflow: visible;
+	position: absolute;
+	width: 34.789px;
+	height: 17.373px;
+	transform: translate(-1844px, -4244px) matrix(1,0,0,1,1859.6054,4268.3132) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rettangolo_58 {
+	fill: transparent;
+}
+.Rettangolo_58 {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 10px;
+	left: 931px;
+	top: 0px;
+}
